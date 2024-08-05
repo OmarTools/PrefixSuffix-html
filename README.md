@@ -1,4 +1,4 @@
-# PrefixSuffix-html
+# SuFreX - PrefixSuffix-html
 This is a web-based tool designed to manipulate text in various ways giving you all your prefix & suffix needs in one place. 
 ![image](https://github.com/user-attachments/assets/c316d767-e2d1-4a9e-9622-257d2e001201)
 
